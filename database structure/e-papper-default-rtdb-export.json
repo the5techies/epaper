@@ -1,0 +1,64 @@
+{
+  "esp32_desk_display": {
+    "calendar": {
+      "count": 0,
+      "lastUpdated": "2026-05-13T20:56:03.403Z"
+    },
+    "customMessage": {
+      "active": false,
+      "expiresAt": "2026-05-13T19:34:09.941584",
+      "message": "",
+      "seen": true,
+      "seenAt": "50235",
+      "sentAt": "2026-05-12T19:34:09.939989"
+    },
+    "dailyContent": {
+      "lastUpdated": "2026-05-13T18:30:32.810Z",
+      "quote": "One loyal friend is worth ten thousand relatives. - Euripides",
+      "verse": {
+        "reference": "Matthew 13:19",
+        "text": "When anyone hears the word of the Kingdom, and doesn’t understand it, the evil one comes, and snatches away that which has been sown in his heart. This is what was sown by the roadside."
+      }
+    },
+    "datetime": {
+      "date": "14/5/2026",
+      "day": "Thursday",
+      "dayOfMonth": 14,
+      "month": "May",
+      "time": "02:26:03",
+      "timestamp": "2026-05-13T20:56:03.027Z",
+      "timezone": "Asia/Kolkata",
+      "year": 2026
+    },
+    "device_status": {
+      "battery": 43,
+      "firmwareVersion": "1.0.0",
+      "isOnline": false,
+      "lastSeen": "2026-05-13T19:56:02.123Z",
+      "wifiStrength": -81
+    },
+    "settings": {
+      "displayMode": "calendar",
+      "lastModified": "2026-04-13T21:11:09.093426",
+      "location": {
+        "city": "palai, kerala ",
+        "lat": "9.7121040",
+        "lon": "76.6795267"
+      },
+      "temperatureUnit": "celsius",
+      "timezone": "Asia/Kolkata",
+      "updateInterval": 3600
+    },
+    "weather": {
+      "description": "overcast clouds",
+      "feelsLike": 26,
+      "humidity": 96,
+      "icon": "cloudy_night",
+      "lastUpdated": "2026-05-13T20:56:03.012Z",
+      "pressure": 1005,
+      "temperature": 25,
+      "temperatureUnit": "celsius",
+      "windSpeed": 0.95
+    }
+  }
+}

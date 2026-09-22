@@ -8,13 +8,11 @@
 #include "icons.h"
 #include <LittleFS.h>
 #include <ArduinoJson.h>
+#include "secrets.h"
 
 #define COLORED 0
 #define UNCOLORED 1
-#define WIFI_SSID "Tp-link"
-#define WIFI_PASSWORD "vellimoozhayil"
-#define API_KEY "AIzaSyCWUUIN2Lonf2fX2LCdxVKFdgN8jueEedk"
-#define DATABASE_URL "https://e-papper-default-rtdb.firebaseio.com"
+
 #define BTN_A 27
 #define BTN_B 26
 #define BTN_C 33
